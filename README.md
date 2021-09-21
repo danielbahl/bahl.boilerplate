@@ -15,6 +15,7 @@ Denne boilerplate / skeletton bygger på Bootstrap og inkluderer også lidt magi
 
 **Usecase:**
  * Skabelonen er tiltænkt brug i mine videoer på YouTube https://youtube.com/danielbahl
+ * Direkte link til video: https://www.youtube.com/watch?v=9l0queYAigk
 
 **Installation og Tips**
 
