@@ -14,8 +14,8 @@ This boilerplate/skeleton is built on Bootstrap and also includes some magical �
 * Includes **_Unicons_** icons (CDN) from [Iconscout](https://iconscout.com/unicons)
 
 **Use Case:**
-* This template is intended for use in my YouTube videos [Daniel Bahl on YouTube](https://youtube.com/danielbahl)
-* Direct link to video: [YouTube Video](https://www.youtube.com/watch?v=9l0queYAigk)
+* This template is intended for use in my YouTube videos [Daniel Bahl on YouTube](https://youtube.com/danielbahl) (Sorry danish channel)
+* Direct link to video: [YouTube Video](https://www.youtube.com/watch?v=9l0queYAigk) (🇩🇰 Danish video)
 
 **Installation and Tips**
 
